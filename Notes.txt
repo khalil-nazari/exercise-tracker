@@ -1,0 +1,31 @@
+create react app
+$ npx create-react-app mern-excercise
+
+Creat backend folder 
+1. 
+$ mkdir backend
+$ cd backend
+
+2. 
+$ npm init -y
+
+3. install dependencies 
+$ npm install express cors mongoose dotenv 
+
+express: lightweight web framwork in nodejs
+cors:  cross origin resource sharing, allows ajax request and access requests from remote hosts. 
+.env: loads environment variable 
+
+4. install nodemon 
+$ npm install -g nodemon
+==================================================================================================
+IN THE BACKEND FOLDER 
+1. create server.js
+
+DB on atlas mongobd
+username: kanazari0909
+password: jy73bMOC5bwAQzh0    
+IP Address: 210.187.220.138
+Connection uri: mongodb+srv://<username>:<password>@cluster0-ehn5l.mongodb.net/admin?retryWrites=true&w=majority
+
+https://youtu.be/7CqJlxBYj-M?t=1932
