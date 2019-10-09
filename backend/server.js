@@ -21,7 +21,7 @@ connection.once('open', ()=> {
 // Routes
 const excercisesRouter = require('./routes/exercises.js');
 const usersRouter = require('./routes/users.js');
-app.use('/excercises', excercisesRouter);
+app.use('/exercises', excercisesRouter);
 app.use('/users', usersRouter);
 
 

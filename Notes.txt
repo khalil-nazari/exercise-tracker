@@ -23,9 +23,29 @@ IN THE BACKEND FOLDER
 1. create server.js
 
 DB on atlas mongobd
-username: kanazari0909
-password: jy73bMOC5bwAQzh0    
+username: khalilahmad987
+password: oenOvd3gQHY47bMD    
 IP Address: 210.187.220.138
 Connection uri: mongodb+srv://<username>:<password>@cluster0-ehn5l.mongodb.net/admin?retryWrites=true&w=majority
 
 https://youtu.be/7CqJlxBYj-M?t=1932
+
+
+***************************************************************************
+FRONT END 
+5. Install Bootstrap 
+$ npm install bootstrap 
+
+6. Install react router
+$ npm install react-router-dom
+
+https://youtu.be/7CqJlxBYj-M?t=3464
+
+7. Install datepiker 
+$ npm install react-datepicker
+
+https://youtu.be/7CqJlxBYj-M?t=4785
+
+8. Install axios 
+$ npm install axios
+
